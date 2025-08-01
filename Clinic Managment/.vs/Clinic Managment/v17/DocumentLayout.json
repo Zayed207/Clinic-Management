@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\clinic managment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:clinic managment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3C153-F875-43BB-88E1-08C45EE6022B}|..\\BusinessLayer\\Business_Layer.csproj|d:\\users\\zayed\\source\\repos\\businesslayer\\business_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C951B5B3-02C9-47E1-850E-6EF586FB9732}|..\\Global\\Global.csproj|d:\\users\\zayed\\source\\repos\\global\\global.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47BF7B5-4452-4450-814E-644DDA5F31CC}|..\\DataLayer\\Data_Layer.csproj|d:\\users\\zayed\\source\\repos\\datalayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3C153-F875-43BB-88E1-08C45EE6022B}|..\\BusinessLayer\\Business_Layer.csproj|d:\\users\\zayed\\source\\repos\\businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3C153-F875-43BB-88E1-08C45EE6022B}|..\\BusinessLayer\\Business_Layer.csproj|d:\\users\\zayed\\source\\repos\\businesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3C153-F875-43BB-88E1-08C45EE6022B}|..\\BusinessLayer\\Business_Layer.csproj|d:\\users\\zayed\\source\\repos\\businesslayer\\clspermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3C153-F875-43BB-88E1-08C45EE6022B}|..\\BusinessLayer\\Business_Layer.csproj|d:\\users\\zayed\\source\\repos\\businesslayer\\clsemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47BF7B5-4452-4450-814E-644DDA5F31CC}|..\\DataLayer\\Data_Layer.csproj|d:\\users\\zayed\\source\\repos\\datalayer\\employeesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C951B5B3-02C9-47E1-850E-6EF586FB9732}|..\\Global\\Global.csproj|d:\\users\\zayed\\source\\repos\\global\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47BF7B5-4452-4450-814E-644DDA5F31CC}|..\\DataLayer\\Data_Layer.csproj|d:\\users\\zayed\\source\\repos\\datalayer\\data_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47BF7B5-4452-4450-814E-644DDA5F31CC}|..\\DataLayer\\Data_Layer.csproj|d:\\users\\zayed\\source\\repos\\datalayer\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB719ED-6BCC-4EB2-A347-9DCE1CF9B3EB}|..\\Beta\\Beta.csproj|d:\\users\\zayed\\source\\repos\\beta\\beta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB719ED-6BCC-4EB2-A347-9DCE1CF9B3EB}|..\\Beta\\Beta.csproj|d:\\users\\zayed\\source\\repos\\beta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\clinic managment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:clinic managment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3C153-F875-43BB-88E1-08C45EE6022B}|..\\BusinessLayer\\Business_Layer.csproj|d:\\users\\zayed\\source\\repos\\businesslayer\\clsclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8068866B-C902-47EE-9B35-068F7EDB7BCD}|..\\Connectioncls\\Connectioncls.csproj|d:\\users\\zayed\\source\\repos\\connectioncls\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\controllers\\clinicmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:controllers\\clinicmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47BF7B5-4452-4450-814E-644DDA5F31CC}|..\\DataLayer\\Data_Layer.csproj|d:\\users\\zayed\\source\\repos\\datalayer\\clinicdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47BF7B5-4452-4450-814E-644DDA5F31CC}|..\\DataLayer\\Data_Layer.csproj|d:\\users\\zayed\\source\\repos\\datalayer\\permissionsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE3C153-F875-43BB-88E1-08C45EE6022B}|..\\BusinessLayer\\Business_Layer.csproj|d:\\users\\zayed\\source\\repos\\businesslayer\\business_layer.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|d:\\users\\zayed\\source\\repos\\clinic managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E28DD4-32D7-4A62-AEF8-BA55DA3BAED7}|Clinic Managment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DataLayer\\EmployeesData.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\EmployeesData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DataLayer\\EmployeesData.cs",
+              "RelativeToolTip": "..\\DataLayer\\EmployeesData.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwJQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:04:48.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsPermissions.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsPermissions.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPermissions.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsPermissions.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsPermissions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:58:37.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsUser.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsUser.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsUser.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:55:11.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clinic Managment.csproj",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Clinic Managment.csproj",
+              "RelativeDocumentMoniker": "Clinic Managment.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Clinic Managment.csproj",
+              "RelativeToolTip": "Clinic Managment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T17:36:11.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:55:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DataLayer\\PersonData.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\PersonData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DataLayer\\PersonData.cs",
+              "RelativeToolTip": "..\\DataLayer\\PersonData.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAAAGIBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:36:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Business_Layer.csproj",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\Business_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Business_Layer.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\Business_Layer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\Business_Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T17:36:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPerson.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsPerson.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:36:12.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsEmployees.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsEmployees.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsEmployees.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsEmployees.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsEmployees.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:05:23.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.csproj",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Global\\Global.csproj",
+              "RelativeDocumentMoniker": "..\\Global\\Global.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Global\\Global.csproj",
+              "RelativeToolTip": "..\\Global\\Global.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T16:51:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Global\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Global\\Class1.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Global\\Class1.cs",
+              "RelativeToolTip": "..\\Global\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T14:36:40.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Data_Layer.csproj",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DataLayer\\Data_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\DataLayer\\Data_Layer.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DataLayer\\Data_Layer.csproj",
+              "RelativeToolTip": "..\\DataLayer\\Data_Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T14:07:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DataLayer\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\UserData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DataLayer\\UserData.cs",
+              "RelativeToolTip": "..\\DataLayer\\UserData.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA4wO0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:54:42.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Beta\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Beta\\Program.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Beta\\Program.cs",
+              "RelativeToolTip": "..\\Beta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:50:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clinic Managment.http",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Clinic Managment.http",
+              "RelativeDocumentMoniker": "Clinic Managment.http",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Clinic Managment.http",
+              "RelativeToolTip": "Clinic Managment.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-06T17:44:07.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsClinic.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsClinic.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsClinic.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\clsClinic.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsClinic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:47:58.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T07:20:55.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Beta.csproj",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Beta\\Beta.csproj",
+              "RelativeDocumentMoniker": "..\\Beta\\Beta.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Beta\\Beta.csproj",
+              "RelativeToolTip": "..\\Beta\\Beta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T08:50:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClinicData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DataLayer\\ClinicData.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\ClinicData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DataLayer\\ClinicData.cs",
+              "RelativeToolTip": "..\\DataLayer\\ClinicData.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAWwJEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:47:56.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Connectioncls\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Connectioncls\\Class1.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Connectioncls\\Class1.cs",
+              "RelativeToolTip": "..\\Connectioncls\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:07:45.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClinicManagementController.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\ClinicManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClinicManagementController.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\ClinicManagementController.cs",
+              "RelativeToolTip": "Controllers\\ClinicManagementController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:36:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClinicController.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\ClinicController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClinicController.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\ClinicController.cs",
+              "RelativeToolTip": "Controllers\\ClinicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:56:32.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PermissionsData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DataLayer\\PermissionsData.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\PermissionsData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DataLayer\\PermissionsData.cs",
+              "RelativeToolTip": "..\\DataLayer\\PermissionsData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:57:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Business_Layer.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\Business_Layer.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Business_Layer.csproj.Backup.tmp",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\BusinessLayer\\Business_Layer.csproj.Backup.tmp",
+              "RelativeToolTip": "..\\BusinessLayer\\Business_Layer.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-13T07:44:56.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PermissionsController.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "Controllers\\PermissionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:58:12.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:56:53.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:56:13.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\Clinic Managment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:44:05.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
